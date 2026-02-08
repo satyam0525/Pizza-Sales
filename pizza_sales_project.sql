@@ -1,6 +1,6 @@
-create database pizzahut;
+create database pizza_sales;
 
-use pizzahut;
+use pizza_sales;
 
 create table orders (
 order_id int not null,
