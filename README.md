@@ -106,5 +106,5 @@ This project is ideal for **Data Analyst / Data Engineer / SQL practice**.
 
 1. Create the database:
    ```sql
-   CREATE DATABASE pizzahut;
-   USE pizzahut;
+   CREATE DATABASE pizza_sales;
+   USE pizza_sales;
